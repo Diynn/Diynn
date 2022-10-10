@@ -6,7 +6,7 @@
 - :skull: Email: diogo.dallarosa.bueno@escola.pr.gov.br
 - :skull: Busco aprender **novas linguagens.**
 - :skull: Estou aprendendo **JavaScript.**
-- :skull:
+- :skull::skull::skull::skull::skull::skull::skull::skull::skull::skull::skull::skull::skull:
 
  ### Bem vindo.
  
