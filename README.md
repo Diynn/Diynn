@@ -2,7 +2,7 @@
 
 ## Editando o perfil.
 
-- :skull: Sou o **@Diynn.**
+- :skull: Sou o **Diynn.**
 - :skull: Email: diogo.dallarosa.bueno@escola.pr.gov.br
 - :skull: Busco aprender **novas linguagens.**
 - :skull: Estou aprendendo **JavaScript.**
