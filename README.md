@@ -2,11 +2,12 @@
 
 ## Editando o perfil.
 
-- :skull: Sou o **Diynn.**
-- :skull: Email: diogo.dallarosa.bueno@escola.pr.gov.br
-- :skull: Busco aprender **novas linguagens.**
-- :skull: Estou aprendendo **JavaScript.**
-- :skull::skull::skull::skull::skull::skull::skull::skull::skull::skull::skull::skull::skull:
+- :heart: Sou o **Diynn.**
+- :sunflower: Email: diogo.dallarosa.bueno@escola.pr.gov.br
+- :blue_heart: Busco aprender **novas linguagens.**
+- :purple_heart: Estou aprendendo **JavaScript.**
+ 
+-Tenha **Determinação.** :heart:
 
  ### Bem vindo.
  
