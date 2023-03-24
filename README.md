@@ -3,7 +3,7 @@
 ## Editando o perfil.
 
 - :heart: Sou o **Diynn.**
-- :sunflower: Email: diogo.dallarosa.bueno@escola.pr.gov.br
+- 💛: Email: diogo.dallarosa.bueno@escola.pr.gov.br
 - :blue_heart: Busco aprender **novas linguagens.**
 - :purple_heart: Estou aprendendo **JavaScript.**
  
